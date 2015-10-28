@@ -10,7 +10,7 @@ Made for Django 1.9.
 
 # Usage
 
-```bash
+```python
 # app.py
 from djangomi.init import *
 settings.ROOT_URLCONF = "app"
