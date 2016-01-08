@@ -24,7 +24,7 @@ base_dir = os.path.dirname(os.path.abspath(__file__))
 
 setup(
     name = "djangomi",
-    version = "0.1",
+    version = "0.2",
     description = "Django Mi(ni) for Django projects",
     url = "http://github.com/futurice/djangomi",
     author = "Jussi Vaihia",
